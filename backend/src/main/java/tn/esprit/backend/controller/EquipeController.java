@@ -54,4 +54,6 @@ public class EquipeController {
     public Equipe assignEquipeToProjet(@PathVariable Long equipeId, @PathVariable Long projetId) {
         return equipeService.assignEquipeToProjet(equipeId, projetId);
     }
+
+    #test jenkins
 }
