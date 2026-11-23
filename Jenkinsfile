@@ -13,8 +13,8 @@ pipeline {
     // --- Outils déclarés dans : Manage Jenkins > Tools -----------------------
     //     (adapter les noms 'Maven3' et 'JDK17' à votre configuration)
     tools {
-        maven 'Maven3'
-        jdk   'JDK17'
+        maven 'M3'
+        jdk   'JDK21'
     }
 
     // --- 1) Détection du push GitHub -----------------------------------------
