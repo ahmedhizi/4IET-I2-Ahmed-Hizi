@@ -55,5 +55,5 @@ public class EquipeController {
         return equipeService.assignEquipeToProjet(equipeId, projetId);
     }
 
-    #test jenkins
+    //test jenkins
 }
