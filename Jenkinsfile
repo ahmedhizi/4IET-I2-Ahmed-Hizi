@@ -32,7 +32,7 @@ pipeline {
     environment {
         // TODO : remplacer par l'URL de VOTRE dépôt GitHub
         REPO_URL   = 'https://github.com/ahmedhizi/4IET-I2-Ahmed-Hizi.git'
-        BRANCH     = 'main'
+        BRANCH     = 'master'
         BACKEND_DIR = 'backend'
     }
 
